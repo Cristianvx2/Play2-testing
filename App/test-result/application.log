@@ -1,0 +1,5 @@
+10 May 2018 16:04:19,527 INFO  ~ Starting /Users/digitalgeko/Documents/Play-example/App
+10 May 2018 16:04:20,433 WARN  ~ You're running Play! in DEV mode
+10 May 2018 16:04:20,529 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+10 May 2018 16:04:25,060 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0 for default
+10 May 2018 16:04:26,027 INFO  ~ Application 'App' is now started !
